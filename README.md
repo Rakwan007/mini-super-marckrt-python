@@ -1,10 +1,8 @@
 # مشروع سوبر ماركيت لبيع وحجز مواد بناء لغة بايثون واكسل
 super market python with excel
-- 👋 Hi, I’m @Rakwan007 (Rakwan Ali)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 لا تنسوا الاشتراك في قناتنا على يوتيوب
+- 👀 تابعوني على فيسبوك
+- 🌱 تابعوني على انستقرام
 
 - My Channal on youtube :
 https://www.youtube.com/@Rakwan
