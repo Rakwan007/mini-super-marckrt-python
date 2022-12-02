@@ -1,4 +1,4 @@
-# mini-super-marckrt-python
+# مشروع سوبر ماركيت لبيع وحجز مواد بناء لغة بايثون واكسل
 super market python with excel
 - 👋 Hi, I’m @Rakwan007 (Rakwan Ali)
 - 👀 I’m interested in ...
